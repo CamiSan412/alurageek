@@ -1,0 +1,40 @@
+{
+  "productos": [
+    {
+      "id": "1d3a",
+      "nombre": "Camila",
+      "precio": "4555",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?q=h_1194,w_2121,x_0,y_0"
+    },
+    {
+      "id": "f0e5",
+      "nombre": "Camila",
+      "precio": "66666",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?q=h_1194,w_2121,x_0,y_0"
+    },
+    {
+      "id": "e90d",
+      "nombre": "Camila",
+      "precio": "322323",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?q=h_1194,w_2121,x_0,y_0"
+    },
+    {
+      "id": "a737",
+      "nombre": "Camila",
+      "precio": "45454545",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?q=h_1194,w_2121,x_0,y_0"
+    },
+    {
+      "id": "17a3",
+      "nombre": "Camila",
+      "precio": "5454545",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?q=h_1194,w_2121,x_0,y_0"
+    },
+    {
+      "id": "d4bc",
+      "nombre": "Camila",
+      "precio": "45454545",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?q=h_1194,w_2121,x_0,y_0"
+    }
+  ]
+}

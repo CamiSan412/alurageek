@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge AluraGeek</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="./assets/Logo.svg" alt="AluraGeek Logo">
+    </header>
+
+    <main>
+        <section class="productos">
+            <h1>MIS PRODUCTOS</h1>
+            <div class="productos-lista" id="productos-lista">
+                <!-- Aquí se renderizarán los productos -->
+            </div>
+        </section>
+
+        <section class="agregar-producto">
+            <h1>AGREGAR PRODUCTO</h1>
+            <form id="producto-form">
+                <input type="text" id="nombre" placeholder="nombre..." required>
+                <input type="number" id="precio" placeholder="precio..." required>
+                <input type="text" id="imagen" placeholder="imagen..." required>
+                <div class="form-buttons">
+                    <button type="submit">Enviar</button>
+                    <button type="reset">Limpiar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div class="piePagina">
+            <img src="./assets/Logo.svg" alt="AluraGeek Logo">
+            <p>Desarrollado por Camila Sanchez</p>
+        </div>  
+        <p>Alura LATAM - 2024</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
